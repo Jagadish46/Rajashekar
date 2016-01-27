@@ -9,7 +9,7 @@ public class Cal1 {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		String a,b,d[] = null;
 		int in[] = null, in1 = 0;
-		int c=0;
+		int c=0,d=0;
 		try{
 			System.out.println("enter number of products");
 			a=br.readLine();
